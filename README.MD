@@ -1,11 +1,11 @@
 ## Description ##
 Control Arduino VS1053B Shield through Node.js interface
 
-![](https://github.com/toolboc/Adruino_VS1053B_Shield_Node_Interface/Assets/Arduino_VS1053B_Shield.jpg)
+![](https://github.com/toolboc/Adruino_VS1053B_Shield_Node_Interface/blob/master/Assets/Arduino_VS1053B_Shield.jpg)
 
 ##Demonstration##
 
-![](https://github.com/toolboc/Adruino_VS1053B_Shield_Node_Interface/Assets/Demonstration.PNG)
+![](https://github.com/toolboc/Adruino_VS1053B_Shield_Node_Interface/blob/master/Assets/Demonstration.PNG)
 
 ## Software Prerequisites ##
 [Arduino IDE](https://www.arduino.cc/en/Main/Software)
@@ -17,7 +17,7 @@ Control Arduino VS1053B Shield through Node.js interface
 
 - MicroSD Card with mp3s named as shown below:
 
-![](https://github.com/toolboc/Adruino_VS1053B_Shield_Node_Interface/Assets/SDFileNames.PNG)
+![](https://github.com/toolboc/Adruino_VS1053B_Shield_Node_Interface/blob/master/Assets/SDFileNames.PNG)
 
 ##Instructions##
 
